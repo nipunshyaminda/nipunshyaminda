@@ -1,16 +1,58 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**nipunshyaminda/nipunshyaminda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey, I'm Nipun Shyaminda
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="banner.gif" width="800">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Software Engineer in Progress | 🎓 BIT Undergraduate @ UCSC
+### 💻 Software Engineering Student @ iCET
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Projects;Learning+Every+Day;Future+Software+Engineer;Passionate+About+Technology" />
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,git,github,vscode&theme=dark" />
+
+</div>
+
+---
+
+## 🚀 About Me
+
+```yaml
+Name: Nipun Shyaminda
+Education: BIT Undergraduate @ UCSC
+           Software Engineering Student @ iCET
+```
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=nipunshyaminda&show_icons=true&theme=github_dark&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=nipunshyaminda&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 Code • Learn • Build • Repeat
+
+<img src="https://komarev.com/ghpvc/?username=nipunshyaminda&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
